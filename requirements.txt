@@ -1,0 +1,7 @@
+Flask
+tensorflow
+joblib
+numpy
+opencv-python
+mediapipe
+twilio
